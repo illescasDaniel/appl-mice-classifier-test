@@ -1,8 +1,9 @@
 apple-mice-classifier
 ---
 
-The classifier can distiguish if an image coresponds to a **white Apple Magic Mouse 2 mices** or not.
-If the input image is a "white Apple Magic Mouse 2 mouse" the classifier will predict its category as "apple", if its other mouse "other".
+The classifier can distiguish if an image coresponds to a **white Apple Magic Mouse 2 mouse** or not.
+
+If the input image is a "white Apple Magic Mouse 2 mouse" the classifier will predict its category as "apple", and if it is another mouse, "other".
 
 **Note:** this project was made thanks to [Lobe.ai](https://lobe.ai/) and this is just a simple half hour project.
 
