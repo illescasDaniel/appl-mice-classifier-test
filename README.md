@@ -1,15 +1,17 @@
-apple-mice-classificator
+apple-mice-classifier
 ---
 
-Very simple classificator for white Apple Magic Mouse 2 mices.
-It can classify mices into: 'apple' or 'other'.
+The classifier can distiguish if an image coresponds to a **white Apple Magic Mouse 2 mices** or not.
+If the input image is a "white Apple Magic Mouse 2 mouse" the classifier will predict its category as "apple", if its other mouse "other".
 
 **Note:** this project was made thanks to [Lobe.ai](https://lobe.ai/) and this is just a simple half hour project.
 
 Usage
 -----
 
-The trained model is a Tensorflow model that you can easily try with Python 3.6 using the example from the "example" folder.
+The trained model is a Tensorflow model that you can use with Python 3.6 and Tensorflow (1.15.3).
+
+You can try the model using the example from the "example" folder.
 **Instructions [here](example/README.md)**
 
 **Requirements**: Python 3.6.X ( https://www.python.org/downloads/release/python-368/ )
