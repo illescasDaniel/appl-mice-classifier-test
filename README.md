@@ -18,3 +18,7 @@ You can try the model using the example from the "example" folder.
 **Requirements**: Python 3.6.X ( https://www.python.org/downloads/release/python-368/ )
 
 If installing on windows, download the "Windows x86-64 executable installer" (72f37686b7ab240ef70fdb931bdf3cb5), when installing make sure to tick the checkbox that adds your the Python executable files to the path.
+
+Screenshot of Lobe:
+----
+![Lobe mices project](LobeScreenshot.png)
